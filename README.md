@@ -22,6 +22,8 @@ Once setup is complete, this dashboard link will automatically update to your ow
 
 ### macOS / Linux
 
+Run this in Terminal.
+
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/aspain/git-sweaty/main/scripts/bootstrap.sh)
 ```
