@@ -469,7 +469,7 @@ def _bootstrap_env_and_reexec(args: argparse.Namespace) -> None:
     child_args.append("--env-bootstrapped")
     print("Re-launching setup inside .venv...")
     try:
-        raise SystemExit(subprocess.call([venv_python, script_path, *child_args], cwd=root))
+        raise SystemExit(subprocess.call([venv_python, script_path, *child_args], cwd=root, stdin=sys.stdin, stdout=sys.stdout, stderr=sys.stderr))
     except FileNotFoundError as exc:
         missing_path = getattr(exc, "filename", "") or venv_python
         raise RuntimeError(

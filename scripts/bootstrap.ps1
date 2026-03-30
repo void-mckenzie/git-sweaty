@@ -8,7 +8,7 @@ $ErrorActionPreference = "Stop"
 
 if (($null -eq $SetupArgs -or $SetupArgs.Count -eq 0) -and $null -ne $MyInvocation.UnboundArguments -and $MyInvocation.UnboundArguments.Count -gt 0) {
     $SetupArgs = @($MyInvocation.UnboundArguments | ForEach-Object { [string]$_ })
-} elseif (($null -eq $SetupArgs -or $SetupArgs.Count -eq 0) -and $args.Count -gt 0) {
+} elseif (($null -eq $SetupArgs -or $SetupArgs.Count -eq 0) -and (Get-Variable -Name 'args' -Scope 0 -ErrorAction SilentlyContinue) -and $args.Count -gt 0) {
     $SetupArgs = @($args | ForEach-Object { [string]$_ })
 }
 
