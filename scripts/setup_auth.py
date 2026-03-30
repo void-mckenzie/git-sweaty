@@ -229,6 +229,8 @@ def _normalize_cmd(cmd: list[str]) -> list[str]:
 
 
 def _isatty() -> bool:
+    if os.environ.get("GIT_SWEATY_INTERACTIVE", "").lower() in ("1", "true", "yes"):
+        return True
     return bool(sys.stdin.isatty() and sys.stdout.isatty())
 
 
