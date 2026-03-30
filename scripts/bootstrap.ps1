@@ -665,6 +665,7 @@ function Invoke-OnlineSetup {
         Write-Info ""
         Write-Info "Launching online setup..."
         $env:GIT_SWEATY_INTERACTIVE = "1"
+        $env:PYTHONUNBUFFERED = "1"
         $env:GIT_SWEATY_BOOTSTRAP_GH_PATH = $GhPath
         $ghDir = Split-Path -Path $GhPath -Parent
         if (-not [string]::IsNullOrWhiteSpace($ghDir)) {

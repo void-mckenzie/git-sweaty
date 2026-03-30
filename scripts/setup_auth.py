@@ -229,12 +229,9 @@ def _normalize_cmd(cmd: list[str]) -> list[str]:
 
 
 def _isatty() -> bool:
-    env_val = os.environ.get("GIT_SWEATY_INTERACTIVE", "")
-    stdin_tty = sys.stdin.isatty()
-    stdout_tty = sys.stdout.isatty()
-    result = env_val.lower() in ("1", "true", "yes") or (stdin_tty and stdout_tty)
-    print(f"[DEBUG _isatty] GIT_SWEATY_INTERACTIVE={env_val!r} stdin.isatty={stdin_tty} stdout.isatty={stdout_tty} => {result}")
-    return result
+    if os.environ.get("GIT_SWEATY_INTERACTIVE", "").lower() in ("1", "true", "yes"):
+        return True
+    return bool(sys.stdin.isatty() and sys.stdout.isatty())
 
 
 def _prompt(value: Optional[str], label: str, secret: bool = False) -> str:
