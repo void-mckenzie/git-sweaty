@@ -1,0 +1,4225 @@
+{
+  "activities": [
+    {
+      "date": "2024-04-21",
+      "hour": 18,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15015702728",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-21",
+      "hour": 18,
+      "name": "Mission Viejo Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15015859921",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-22",
+      "hour": 8,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15024103442",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-22",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15027966214",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-22",
+      "hour": 17,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/15030654184",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-22",
+      "hour": 17,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/15030831702",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-22",
+      "hour": 18,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15031031815",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-23",
+      "hour": 9,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15040590896",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-23",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15044425308",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-23",
+      "hour": 17,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/15047312341",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-23",
+      "hour": 18,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15047597827",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-24",
+      "hour": 8,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15056517437",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-24",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15060180545",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-24",
+      "hour": 17,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15063037185",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-25",
+      "hour": 6,
+      "name": "Orange County Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/15070745153",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-25",
+      "hour": 8,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15072577441",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-25",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15076277445",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-25",
+      "hour": 18,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15079162644",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-26",
+      "hour": 9,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15088289023",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-26",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15091083257",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-26",
+      "hour": 18,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15093658807",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-28",
+      "hour": 10,
+      "name": "Laguna Beach Hiking",
+      "subtype": "hiking",
+      "type": "Hike",
+      "url": "https://connect.garmin.com/modern/activity/15125112396",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-29",
+      "hour": 9,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15137141922",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-29",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15141094840",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-29",
+      "hour": 18,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15144290076",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-30",
+      "hour": 8,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15154218902",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-30",
+      "hour": 11,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15158162605",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-30",
+      "hour": 17,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/15160978120",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-30",
+      "hour": 18,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15161362181",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-01",
+      "hour": 8,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15173680473",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-01",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15177528454",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-01",
+      "hour": 17,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15179883082",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-01",
+      "hour": 18,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15180376454",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-01",
+      "hour": 19,
+      "name": "Mission Viejo Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15180615737",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-02",
+      "hour": 8,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15189908363",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-02",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15193472583",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-02",
+      "hour": 17,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15196027018",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-03",
+      "hour": 8,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15205872247",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-03",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15208979243",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-03",
+      "hour": 17,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15211330261",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-04",
+      "hour": 10,
+      "name": "Orange County Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/15224528748",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-06",
+      "hour": 5,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15252577345",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-06",
+      "hour": 6,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/15253204598",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-06",
+      "hour": 6,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15253511572",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-06",
+      "hour": 8,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15255286688",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-06",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15259007332",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-06",
+      "hour": 17,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15261464354",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-07",
+      "hour": 5,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15268866308",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-07",
+      "hour": 6,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/15269647275",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-07",
+      "hour": 7,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15269920833",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-07",
+      "hour": 9,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15271678133",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-07",
+      "hour": 11,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15275808689",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-07",
+      "hour": 17,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15278468645",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-08",
+      "hour": 5,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15286028417",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-08",
+      "hour": 6,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/15286756927",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-08",
+      "hour": 6,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15287076708",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-08",
+      "hour": 9,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15289151725",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-08",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15292824008",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-08",
+      "hour": 17,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15295383649",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-09",
+      "hour": 8,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15307149771",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-09",
+      "hour": 12,
+      "name": "Orange County Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/15310864075",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-09",
+      "hour": 17,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15313330280",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-12",
+      "hour": 17,
+      "name": "Orange County Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/15364618281",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-13",
+      "hour": 8,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15373692209",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-13",
+      "hour": 17,
+      "name": "Orange County Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/15380581678",
+      "year": 2024
+    },
+    {
+      "date": "2025-02-11",
+      "hour": 21,
+      "name": "Orange County Running - Base run",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/18254812199",
+      "year": 2025
+    },
+    {
+      "date": "2025-02-12",
+      "hour": 21,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/18263677694",
+      "year": 2025
+    },
+    {
+      "date": "2025-02-16",
+      "hour": 19,
+      "name": "Orange County Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/18297677662",
+      "year": 2025
+    },
+    {
+      "date": "2025-03-01",
+      "hour": 17,
+      "name": "Orange County Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/18413675373",
+      "year": 2025
+    },
+    {
+      "date": "2025-03-02",
+      "hour": 17,
+      "name": "Orange County Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/18423246473",
+      "year": 2025
+    },
+    {
+      "date": "2025-03-05",
+      "hour": 6,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/18446378918",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-17",
+      "hour": 19,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/18859511410",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-19",
+      "hour": 14,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/18877154091",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-28",
+      "hour": 6,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/18960621467",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-28",
+      "hour": 19,
+      "name": "Irvine - Benchmark Run",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/18966475180",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-29",
+      "hour": 19,
+      "name": "Irvine - Easy Run",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/18977211713",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-01",
+      "hour": 10,
+      "name": "Irvine - Easy Run",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/18995711289",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-01",
+      "hour": 16,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/18997777628",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-05",
+      "hour": 17,
+      "name": "Irvine - Easy Run",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/19037071524",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-29",
+      "hour": 21,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/19891578990",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-03",
+      "hour": 17,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/19942514666",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-04",
+      "hour": 19,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/19954040207",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-04",
+      "hour": 20,
+      "name": "Elliptical",
+      "subtype": "elliptical",
+      "type": "Elliptical",
+      "url": "https://connect.garmin.com/modern/activity/19954083621",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-05",
+      "hour": 19,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/19965613042",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-14",
+      "hour": 22,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/20062812316",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-15",
+      "hour": 21,
+      "name": "Elliptical",
+      "subtype": "elliptical",
+      "type": "Elliptical",
+      "url": "https://connect.garmin.com/modern/activity/20072670801",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-15",
+      "hour": 22,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20072789202",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-16",
+      "hour": 23,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20083580417",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-18",
+      "hour": 20,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/20104356153",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-18",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20104723229",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-18",
+      "hour": 22,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/20104779122",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-19",
+      "hour": 23,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20117025677",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-20",
+      "hour": 20,
+      "name": "Stair Stepper",
+      "subtype": "stair_climbing",
+      "type": "stair_climbing",
+      "url": "https://connect.garmin.com/modern/activity/20126609611",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-20",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20126766050",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-25",
+      "hour": 20,
+      "name": "Stair Stepper",
+      "subtype": "stair_climbing",
+      "type": "stair_climbing",
+      "url": "https://connect.garmin.com/modern/activity/20178894601",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-25",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20179042030",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-27",
+      "hour": 20,
+      "name": "Stair Stepper",
+      "subtype": "stair_climbing",
+      "type": "stair_climbing",
+      "url": "https://connect.garmin.com/modern/activity/20201356028",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-27",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20201473018",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-28",
+      "hour": 20,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/20211409298",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-28",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20211573772",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-30",
+      "hour": 9,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20228060987",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-31",
+      "hour": 13,
+      "name": "Stair Stepper",
+      "subtype": "stair_climbing",
+      "type": "stair_climbing",
+      "url": "https://connect.garmin.com/modern/activity/20240214546",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-31",
+      "hour": 13,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20240472060",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-01",
+      "hour": 19,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/20251814769",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-02",
+      "hour": 20,
+      "name": "Elliptical",
+      "subtype": "elliptical",
+      "type": "Elliptical",
+      "url": "https://connect.garmin.com/modern/activity/20263344225",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-02",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20263490443",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-03",
+      "hour": 21,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/20274532517",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-04",
+      "hour": 21,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/20284806911",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-04",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20285001753",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-06",
+      "hour": 20,
+      "name": "Stair Stepper",
+      "subtype": "stair_climbing",
+      "type": "stair_climbing",
+      "url": "https://connect.garmin.com/modern/activity/20304871815",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-06",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20304992832",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-08",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20326688155",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-08",
+      "hour": 21,
+      "name": "Elliptical",
+      "subtype": "elliptical",
+      "type": "Elliptical",
+      "url": "https://connect.garmin.com/modern/activity/20326738926",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-09",
+      "hour": 19,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/20337801822",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-15",
+      "hour": 20,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/20399228801",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-15",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20399316011",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-15",
+      "hour": 21,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/20399443512",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-17",
+      "hour": 19,
+      "name": "Stair Stepper",
+      "subtype": "stair_climbing",
+      "type": "stair_climbing",
+      "url": "https://connect.garmin.com/modern/activity/20420600349",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-17",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/20420712784",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-17",
+      "hour": 20,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/20420823193",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-22",
+      "hour": 19,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/20471586820",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-22",
+      "hour": 19,
+      "name": "Elliptical",
+      "subtype": "elliptical",
+      "type": "Elliptical",
+      "url": "https://connect.garmin.com/modern/activity/20471636275",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-22",
+      "hour": 20,
+      "name": "Indoor Cycling",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/20471710969",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-24",
+      "hour": 19,
+      "name": "Irvine Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/20492624498",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-03",
+      "hour": 17,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21163709310",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-04",
+      "hour": 23,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21173465155",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-06",
+      "hour": 2,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21182477855",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-09",
+      "hour": 22,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21217147292",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-10",
+      "hour": 20,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21225897625",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-11",
+      "hour": 20,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21234701754",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-13",
+      "hour": 21,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21251534164",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-14",
+      "hour": 20,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21260092131",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-16",
+      "hour": 21,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21277968132",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-17",
+      "hour": 21,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21286876676",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-17",
+      "hour": 22,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21287042467",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-18",
+      "hour": 21,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21295016607",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-18",
+      "hour": 21,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21295115835",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-20",
+      "hour": 20,
+      "name": "Irvine - Run Workout",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21311097575",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-21",
+      "hour": 21,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21319824744",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-21",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21320000815",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-23",
+      "hour": 17,
+      "name": "Irvine - Copy of Run Workout",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21336421206",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-23",
+      "hour": 18,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21336593048",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-25",
+      "hour": 21,
+      "name": "Irvine - Run Workout",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21351640295",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-25",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21351710564",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-26",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21360734745",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-27",
+      "hour": 10,
+      "name": "Irvine - 1.2 Mile",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21367297533",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-27",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21369976118",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-27",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21370108925",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-29",
+      "hour": 21,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21389213309",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-29",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21389309130",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-30",
+      "hour": 21,
+      "name": "Irvine - 1 Mile Run",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21398840902",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-30",
+      "hour": 22,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21398986089",
+      "year": 2025
+    },
+    {
+      "date": "2026-01-01",
+      "hour": 10,
+      "name": "Irvine - 1 Mile Run",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21413615867",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-01",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21416653994",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-03",
+      "hour": 8,
+      "name": "Irvine - 1.5 miles - 10:45 - 11:35",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21432549572",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-03",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21436411712",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-05",
+      "hour": 19,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21456829378",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-05",
+      "hour": 19,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21456869649",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-05",
+      "hour": 19,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21456963147",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-06",
+      "hour": 18,
+      "name": "Irvine - 1.2 miles 10:15 to 11:45",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21467521509",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-07",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21478477319",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-08",
+      "hour": 21,
+      "name": "Irvine - 1.2 Miles Pace 11",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21488649327",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-10",
+      "hour": 10,
+      "name": "Irvine - 1.8 Miles - No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21505083315",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-10",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21508233408",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-12",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21529676781",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-13",
+      "hour": 6,
+      "name": "Irvine - 1.3 miles - no target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21533909407",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-13",
+      "hour": 22,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21541123568",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-14",
+      "hour": 21,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21551771586",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-14",
+      "hour": 22,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21551989628",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-15",
+      "hour": 22,
+      "name": "Irvine - 1.3 miles - no target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21562234130",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-17",
+      "hour": 7,
+      "name": "Irvine - 2 Miles - No target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21577979924",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-17",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21582638052",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-19",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21604141152",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-20",
+      "hour": 17,
+      "name": "Irvine - 1.5 miles - no target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21614518875",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-21",
+      "hour": 19,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21625796976",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-22",
+      "hour": 20,
+      "name": "Irvine - 1.5 miles - no target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21636164305",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-22",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21636312778",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-26",
+      "hour": 21,
+      "name": "Irvine - 1 Mile Run",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21676389523",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-27",
+      "hour": 19,
+      "name": "Irvine - 1.5 miles - no target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21686663927",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-27",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21686907857",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-29",
+      "hour": 20,
+      "name": "Irvine - 1.5 miles - no target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21707160156",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-30",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21716375455",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-31",
+      "hour": 8,
+      "name": "Irvine - 2.5 Miles - No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21722445322",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-31",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21726617031",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-02",
+      "hour": 22,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21747922356",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-03",
+      "hour": 20,
+      "name": "Irvine - 1.5 miles - no target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21758096744",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-04",
+      "hour": 23,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21769979314",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-05",
+      "hour": 18,
+      "name": "Irvine - 1.5 miles - no target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21778769878",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-05",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21779448303",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-07",
+      "hour": 8,
+      "name": "Irvine - 3.2 Miles - No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21795269662",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-07",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21799075701",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-09",
+      "hour": 21,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21820234775",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-09",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21820397646",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-10",
+      "hour": 21,
+      "name": "Irvine - 1.6 Miles - No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21831522602",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-11",
+      "hour": 21,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21842023059",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-13",
+      "hour": 21,
+      "name": "Irvine - 1 Mile Run - No music + Podcast + Chill",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21861540040",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-14",
+      "hour": 7,
+      "name": "Irvine - 3.5 Miles - No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21867429710",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-14",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21871624665",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-15",
+      "hour": 22,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21882421752",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-16",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21892457545",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-17",
+      "hour": 19,
+      "name": "Irvine - 1.8 Miles - No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21903084277",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-17",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21903309279",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-18",
+      "hour": 21,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21914159335",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-18",
+      "hour": 22,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21914369641",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-19",
+      "hour": 21,
+      "name": "Irvine - 1.8 Miles - HR 160 BPM cutoff",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21924281566",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-19",
+      "hour": 22,
+      "name": "Indoor Cycling",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/21924421480",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-21",
+      "hour": 8,
+      "name": "Irvine - 4.2 Miles - No Target - No Music",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21940442254",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-21",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21944208340",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 21,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21965645273",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21965804433",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 19,
+      "name": "Irvine - 2 Miles - 160 BPM Cutoff",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21976836382",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 20,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21988358970",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/21988459926",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 20,
+      "name": "Irvine - 2 Miles - 160 BPM Cutoff",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/21999316064",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-28",
+      "hour": 8,
+      "name": "Irvine - 5 Miles - Target: Safe Pace - 11; No music, HOT",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22016672065",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-03",
+      "hour": 19,
+      "name": "Irvine - 2.5 Miles - No Laps - Fast Music",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22054232185",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-04",
+      "hour": 21,
+      "name": "Irvine - 2 Miles - No Target - No Laps",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22066316178",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 19,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/22077164544",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22077242330",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 19,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22087229186",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-07",
+      "hour": 7,
+      "name": "Irvine - 6.25 Miles - No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22094089208",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 23,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22111228645",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 20,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22121839324",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22133935706",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 19,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22144830282",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 20,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22155865449",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 21,
+      "name": "Irvine Running - 4 rounds + Half loop - Time on feet",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22176961913",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 12,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22186330902",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 20,
+      "name": "Irvine - 2.5 Miles - No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22198663714",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22210528594",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 0,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22223154706",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 20,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22233418017",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 8,
+      "name": "Long Beach - Beer City Half\u2122 Long Beach (10k)",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22251519758",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 21,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22267439579",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 21,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22278885314",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22290814296",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 18,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22301501783",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 19,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22312267909",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 18,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22321686462",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 7,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22329154642",
+      "year": 2026
+    }
+  ],
+  "aggregates": {
+    "2024": {
+      "Hike": {
+        "2024-04-28": {
+          "activity_ids": [
+            "15125112396"
+          ],
+          "count": 1,
+          "distance": 7155.91015625,
+          "elevation_gain": 383.0,
+          "moving_time": 6052.0
+        }
+      },
+      "Ride": {
+        "2024-04-21": {
+          "activity_ids": [
+            "15015702728",
+            "15015859921"
+          ],
+          "count": 2,
+          "distance": 9392.48974609375,
+          "elevation_gain": 122.0,
+          "moving_time": 2450.0
+        },
+        "2024-04-22": {
+          "activity_ids": [
+            "15024103442",
+            "15031031815"
+          ],
+          "count": 2,
+          "distance": 7595.52001953125,
+          "elevation_gain": 53.0,
+          "moving_time": 1645.0
+        },
+        "2024-04-23": {
+          "activity_ids": [
+            "15040590896",
+            "15047597827"
+          ],
+          "count": 2,
+          "distance": 7627.909912109375,
+          "elevation_gain": 57.0,
+          "moving_time": 1682.0
+        },
+        "2024-04-24": {
+          "activity_ids": [
+            "15056517437",
+            "15063037185"
+          ],
+          "count": 2,
+          "distance": 7608.16015625,
+          "elevation_gain": 63.0,
+          "moving_time": 1609.0
+        },
+        "2024-04-25": {
+          "activity_ids": [
+            "15072577441",
+            "15079162644"
+          ],
+          "count": 2,
+          "distance": 7673.580078125,
+          "elevation_gain": 60.0,
+          "moving_time": 1612.0
+        },
+        "2024-04-26": {
+          "activity_ids": [
+            "15088289023",
+            "15093658807"
+          ],
+          "count": 2,
+          "distance": 7642.43994140625,
+          "elevation_gain": 57.0,
+          "moving_time": 1678.0
+        },
+        "2024-04-29": {
+          "activity_ids": [
+            "15137141922",
+            "15144290076"
+          ],
+          "count": 2,
+          "distance": 7641.679931640625,
+          "elevation_gain": 57.0,
+          "moving_time": 1643.0
+        },
+        "2024-04-30": {
+          "activity_ids": [
+            "15154218902",
+            "15161362181"
+          ],
+          "count": 2,
+          "distance": 7637.159912109375,
+          "elevation_gain": 55.0,
+          "moving_time": 1652.0
+        },
+        "2024-05-01": {
+          "activity_ids": [
+            "15173680473",
+            "15179883082",
+            "15180376454",
+            "15180615737"
+          ],
+          "count": 4,
+          "distance": 17289.710205078125,
+          "elevation_gain": 188.0,
+          "moving_time": 3898.0
+        },
+        "2024-05-02": {
+          "activity_ids": [
+            "15189908363",
+            "15196027018"
+          ],
+          "count": 2,
+          "distance": 7630.639892578125,
+          "elevation_gain": 54.0,
+          "moving_time": 1612.0
+        },
+        "2024-05-03": {
+          "activity_ids": [
+            "15205872247",
+            "15211330261"
+          ],
+          "count": 2,
+          "distance": 7668.429931640625,
+          "elevation_gain": 55.0,
+          "moving_time": 1647.0
+        },
+        "2024-05-06": {
+          "activity_ids": [
+            "15252577345",
+            "15253511572",
+            "15255286688",
+            "15261464354"
+          ],
+          "count": 4,
+          "distance": 15074.850341796875,
+          "elevation_gain": 101.0,
+          "moving_time": 3122.0
+        },
+        "2024-05-07": {
+          "activity_ids": [
+            "15268866308",
+            "15269920833",
+            "15271678133",
+            "15278468645"
+          ],
+          "count": 4,
+          "distance": 14394.369873046875,
+          "elevation_gain": 96.0,
+          "moving_time": 2975.0
+        },
+        "2024-05-08": {
+          "activity_ids": [
+            "15286028417",
+            "15287076708",
+            "15289151725",
+            "15295383649"
+          ],
+          "count": 4,
+          "distance": 14379.97998046875,
+          "elevation_gain": 118.0,
+          "moving_time": 2923.0
+        },
+        "2024-05-09": {
+          "activity_ids": [
+            "15307149771",
+            "15313330280"
+          ],
+          "count": 2,
+          "distance": 7660.31005859375,
+          "elevation_gain": 57.0,
+          "moving_time": 1550.0
+        },
+        "2024-05-13": {
+          "activity_ids": [
+            "15373692209",
+            "15380581678"
+          ],
+          "count": 2,
+          "distance": 7636.580078125,
+          "elevation_gain": 54.0,
+          "moving_time": 1619.0
+        }
+      },
+      "Run": {
+        "2024-04-25": {
+          "activity_ids": [
+            "15070745153"
+          ],
+          "count": 1,
+          "distance": 2097.679931640625,
+          "elevation_gain": 17.0,
+          "moving_time": 775.0
+        },
+        "2024-05-04": {
+          "activity_ids": [
+            "15224528748"
+          ],
+          "count": 1,
+          "distance": 3285.56005859375,
+          "elevation_gain": 22.0,
+          "moving_time": 1160.0
+        },
+        "2024-05-12": {
+          "activity_ids": [
+            "15364618281"
+          ],
+          "count": 1,
+          "distance": 5061.5400390625,
+          "elevation_gain": 27.0,
+          "moving_time": 1900.0
+        }
+      },
+      "VirtualRun": {
+        "2024-04-22": {
+          "activity_ids": [
+            "15030831702"
+          ],
+          "count": 1,
+          "distance": 2124.330078125,
+          "elevation_gain": 0.0,
+          "moving_time": 790.0
+        },
+        "2024-04-23": {
+          "activity_ids": [
+            "15047312341"
+          ],
+          "count": 1,
+          "distance": 2759.530029296875,
+          "elevation_gain": 0.0,
+          "moving_time": 2135.0
+        },
+        "2024-04-30": {
+          "activity_ids": [
+            "15160978120"
+          ],
+          "count": 1,
+          "distance": 2685.110107421875,
+          "elevation_gain": 0.0,
+          "moving_time": 906.0
+        }
+      },
+      "Walk": {
+        "2024-04-22": {
+          "activity_ids": [
+            "15027966214"
+          ],
+          "count": 1,
+          "distance": 1689.5899658203125,
+          "elevation_gain": 17.0,
+          "moving_time": 1117.0
+        },
+        "2024-04-23": {
+          "activity_ids": [
+            "15044425308"
+          ],
+          "count": 1,
+          "distance": 4181.7099609375,
+          "elevation_gain": 58.0,
+          "moving_time": 2867.0
+        },
+        "2024-04-24": {
+          "activity_ids": [
+            "15060180545"
+          ],
+          "count": 1,
+          "distance": 3856.93994140625,
+          "elevation_gain": 51.0,
+          "moving_time": 2620.0
+        },
+        "2024-04-25": {
+          "activity_ids": [
+            "15076277445"
+          ],
+          "count": 1,
+          "distance": 4119.1298828125,
+          "elevation_gain": 75.0,
+          "moving_time": 2783.0
+        },
+        "2024-04-26": {
+          "activity_ids": [
+            "15091083257"
+          ],
+          "count": 1,
+          "distance": 3961.510009765625,
+          "elevation_gain": 50.0,
+          "moving_time": 2553.0
+        },
+        "2024-04-29": {
+          "activity_ids": [
+            "15141094840"
+          ],
+          "count": 1,
+          "distance": 3984.75,
+          "elevation_gain": 67.0,
+          "moving_time": 2775.0
+        },
+        "2024-04-30": {
+          "activity_ids": [
+            "15158162605"
+          ],
+          "count": 1,
+          "distance": 4131.41015625,
+          "elevation_gain": 53.0,
+          "moving_time": 2762.6950073242188
+        },
+        "2024-05-01": {
+          "activity_ids": [
+            "15177528454"
+          ],
+          "count": 1,
+          "distance": 4421.72998046875,
+          "elevation_gain": 55.0,
+          "moving_time": 3020.0
+        },
+        "2024-05-02": {
+          "activity_ids": [
+            "15193472583"
+          ],
+          "count": 1,
+          "distance": 3698.6298828125,
+          "elevation_gain": 47.0,
+          "moving_time": 2545.0
+        },
+        "2024-05-03": {
+          "activity_ids": [
+            "15208979243"
+          ],
+          "count": 1,
+          "distance": 3231.2099609375,
+          "elevation_gain": 42.0,
+          "moving_time": 2227.8740234375
+        },
+        "2024-05-06": {
+          "activity_ids": [
+            "15259007332"
+          ],
+          "count": 1,
+          "distance": 4663.60009765625,
+          "elevation_gain": 65.0,
+          "moving_time": 3170.0
+        },
+        "2024-05-07": {
+          "activity_ids": [
+            "15275808689"
+          ],
+          "count": 1,
+          "distance": 4207.6201171875,
+          "elevation_gain": 47.0,
+          "moving_time": 2796.0
+        },
+        "2024-05-08": {
+          "activity_ids": [
+            "15292824008"
+          ],
+          "count": 1,
+          "distance": 3807.280029296875,
+          "elevation_gain": 59.0,
+          "moving_time": 2529.0
+        },
+        "2024-05-09": {
+          "activity_ids": [
+            "15310864075"
+          ],
+          "count": 1,
+          "distance": 3226.64990234375,
+          "elevation_gain": 33.0,
+          "moving_time": 2293.0
+        }
+      },
+      "WeightTraining": {
+        "2024-04-22": {
+          "activity_ids": [
+            "15030654184"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1169.072998046875
+        },
+        "2024-05-06": {
+          "activity_ids": [
+            "15253204598"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2572.22802734375
+        },
+        "2024-05-07": {
+          "activity_ids": [
+            "15269647275"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3059.551025390625
+        },
+        "2024-05-08": {
+          "activity_ids": [
+            "15286756927"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2719.14794921875
+        }
+      }
+    },
+    "2025": {
+      "Elliptical": {
+        "2025-08-04": {
+          "activity_ids": [
+            "19954083621"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 620.3510131835938
+        },
+        "2025-08-15": {
+          "activity_ids": [
+            "20072670801"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 826.64697265625
+        },
+        "2025-09-02": {
+          "activity_ids": [
+            "20263344225"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1211.2960205078125
+        },
+        "2025-09-08": {
+          "activity_ids": [
+            "20326738926"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 773.7529907226562
+        },
+        "2025-09-22": {
+          "activity_ids": [
+            "20471636275"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 612.322021484375
+        }
+      },
+      "Ride": {
+        "2025-04-17": {
+          "activity_ids": [
+            "18859511410"
+          ],
+          "count": 1,
+          "distance": 2231.590087890625,
+          "elevation_gain": 13.0,
+          "moving_time": 495.0
+        },
+        "2025-04-19": {
+          "activity_ids": [
+            "18877154091"
+          ],
+          "count": 1,
+          "distance": 5895.580078125,
+          "elevation_gain": 32.0,
+          "moving_time": 1227.0
+        },
+        "2025-04-28": {
+          "activity_ids": [
+            "18960621467"
+          ],
+          "count": 1,
+          "distance": 7755.919921875,
+          "elevation_gain": 39.0,
+          "moving_time": 1748.0
+        },
+        "2025-05-01": {
+          "activity_ids": [
+            "18997777628"
+          ],
+          "count": 1,
+          "distance": 5954.66015625,
+          "elevation_gain": 32.0,
+          "moving_time": 1231.0
+        }
+      },
+      "Run": {
+        "2025-02-11": {
+          "activity_ids": [
+            "18254812199"
+          ],
+          "count": 1,
+          "distance": 1762.77001953125,
+          "elevation_gain": 19.0,
+          "moving_time": 754.0
+        },
+        "2025-02-16": {
+          "activity_ids": [
+            "18297677662"
+          ],
+          "count": 1,
+          "distance": 2633.550048828125,
+          "elevation_gain": 25.0,
+          "moving_time": 1147.0
+        },
+        "2025-03-01": {
+          "activity_ids": [
+            "18413675373"
+          ],
+          "count": 1,
+          "distance": 1661.1400146484375,
+          "elevation_gain": 15.0,
+          "moving_time": 702.0
+        },
+        "2025-03-02": {
+          "activity_ids": [
+            "18423246473"
+          ],
+          "count": 1,
+          "distance": 3224.530029296875,
+          "elevation_gain": 24.0,
+          "moving_time": 1347.2169799804688
+        },
+        "2025-04-28": {
+          "activity_ids": [
+            "18966475180"
+          ],
+          "count": 1,
+          "distance": 1179.1500244140625,
+          "elevation_gain": 2.0,
+          "moving_time": 551.9790000915527
+        },
+        "2025-04-29": {
+          "activity_ids": [
+            "18977211713"
+          ],
+          "count": 1,
+          "distance": 3939.360107421875,
+          "elevation_gain": 22.0,
+          "moving_time": 1805.0
+        },
+        "2025-05-01": {
+          "activity_ids": [
+            "18995711289"
+          ],
+          "count": 1,
+          "distance": 3953.2099609375,
+          "elevation_gain": 11.0,
+          "moving_time": 1791.7160000801086
+        },
+        "2025-05-05": {
+          "activity_ids": [
+            "19037071524"
+          ],
+          "count": 1,
+          "distance": 4227.97998046875,
+          "elevation_gain": 18.0,
+          "moving_time": 2064.000015258789
+        },
+        "2025-12-03": {
+          "activity_ids": [
+            "21163709310"
+          ],
+          "count": 1,
+          "distance": 1027.72998046875,
+          "elevation_gain": 0.0,
+          "moving_time": 484.0
+        },
+        "2025-12-04": {
+          "activity_ids": [
+            "21173465155"
+          ],
+          "count": 1,
+          "distance": 1015.8599853515625,
+          "elevation_gain": 3.0,
+          "moving_time": 485.0
+        },
+        "2025-12-09": {
+          "activity_ids": [
+            "21217147292"
+          ],
+          "count": 1,
+          "distance": 1194.2900390625,
+          "elevation_gain": 2.0,
+          "moving_time": 540.0
+        },
+        "2025-12-10": {
+          "activity_ids": [
+            "21225897625"
+          ],
+          "count": 1,
+          "distance": 670.3599853515625,
+          "elevation_gain": 0.0,
+          "moving_time": 295.0
+        },
+        "2025-12-11": {
+          "activity_ids": [
+            "21234701754"
+          ],
+          "count": 1,
+          "distance": 1145.8599853515625,
+          "elevation_gain": 2.0,
+          "moving_time": 499.0
+        },
+        "2025-12-13": {
+          "activity_ids": [
+            "21251534164"
+          ],
+          "count": 1,
+          "distance": 1374.0699462890625,
+          "elevation_gain": 1.0,
+          "moving_time": 589.0
+        },
+        "2025-12-14": {
+          "activity_ids": [
+            "21260092131"
+          ],
+          "count": 1,
+          "distance": 602.6099853515625,
+          "elevation_gain": 0.0,
+          "moving_time": 225.0
+        },
+        "2025-12-16": {
+          "activity_ids": [
+            "21277968132"
+          ],
+          "count": 1,
+          "distance": 1352.02001953125,
+          "elevation_gain": 2.0,
+          "moving_time": 567.0
+        },
+        "2025-12-18": {
+          "activity_ids": [
+            "21295016607"
+          ],
+          "count": 1,
+          "distance": 1345.43994140625,
+          "elevation_gain": 3.0,
+          "moving_time": 541.0
+        },
+        "2025-12-20": {
+          "activity_ids": [
+            "21311097575"
+          ],
+          "count": 1,
+          "distance": 1620.9300537109375,
+          "elevation_gain": 3.0,
+          "moving_time": 686.9840087890625
+        },
+        "2025-12-21": {
+          "activity_ids": [
+            "21319824744"
+          ],
+          "count": 1,
+          "distance": 625.02001953125,
+          "elevation_gain": 0.0,
+          "moving_time": 230.0
+        },
+        "2025-12-23": {
+          "activity_ids": [
+            "21336421206"
+          ],
+          "count": 1,
+          "distance": 1618.47998046875,
+          "elevation_gain": 2.0,
+          "moving_time": 674.0
+        },
+        "2025-12-25": {
+          "activity_ids": [
+            "21351640295"
+          ],
+          "count": 1,
+          "distance": 1638.3699951171875,
+          "elevation_gain": 5.0,
+          "moving_time": 696.0
+        },
+        "2025-12-27": {
+          "activity_ids": [
+            "21367297533"
+          ],
+          "count": 1,
+          "distance": 1966.4200439453125,
+          "elevation_gain": 4.0,
+          "moving_time": 820.0
+        },
+        "2025-12-30": {
+          "activity_ids": [
+            "21398840902"
+          ],
+          "count": 1,
+          "distance": 1640.010009765625,
+          "elevation_gain": 4.0,
+          "moving_time": 669.0
+        }
+      },
+      "VirtualRide": {
+        "2025-09-22": {
+          "activity_ids": [
+            "20471710969"
+          ],
+          "count": 1,
+          "distance": 8127.187200000001,
+          "elevation_gain": 0.0,
+          "moving_time": 1285.1390380859375
+        }
+      },
+      "VirtualRun": {
+        "2025-02-12": {
+          "activity_ids": [
+            "18263677694"
+          ],
+          "count": 1,
+          "distance": 1909.3699951171875,
+          "elevation_gain": 0.0,
+          "moving_time": 763.0
+        },
+        "2025-03-05": {
+          "activity_ids": [
+            "18446378918"
+          ],
+          "count": 1,
+          "distance": 2555.409912109375,
+          "elevation_gain": 0.0,
+          "moving_time": 948.0
+        },
+        "2025-08-14": {
+          "activity_ids": [
+            "20062812316"
+          ],
+          "count": 1,
+          "distance": 1626.5999755859375,
+          "elevation_gain": 0.0,
+          "moving_time": 888.0
+        },
+        "2025-08-18": {
+          "activity_ids": [
+            "20104779122"
+          ],
+          "count": 1,
+          "distance": 807.9099731445312,
+          "elevation_gain": 0.0,
+          "moving_time": 396.0
+        },
+        "2025-09-04": {
+          "activity_ids": [
+            "20284806911"
+          ],
+          "count": 1,
+          "distance": 1780.699951171875,
+          "elevation_gain": 0.0,
+          "moving_time": 777.0
+        },
+        "2025-09-15": {
+          "activity_ids": [
+            "20399228801"
+          ],
+          "count": 1,
+          "distance": 1616.8199462890625,
+          "elevation_gain": 0.0,
+          "moving_time": 1280.0
+        },
+        "2025-09-22": {
+          "activity_ids": [
+            "20471586820"
+          ],
+          "count": 1,
+          "distance": 788.5785600000002,
+          "elevation_gain": 0.0,
+          "moving_time": 550.0
+        },
+        "2025-12-06": {
+          "activity_ids": [
+            "21182477855"
+          ],
+          "count": 1,
+          "distance": 1153.4200439453125,
+          "elevation_gain": 0.0,
+          "moving_time": 485.0
+        },
+        "2025-12-17": {
+          "activity_ids": [
+            "21286876676"
+          ],
+          "count": 1,
+          "distance": 822.0599975585938,
+          "elevation_gain": 0.0,
+          "moving_time": 404.0
+        },
+        "2025-12-18": {
+          "activity_ids": [
+            "21295115835"
+          ],
+          "count": 1,
+          "distance": 1620.1800537109375,
+          "elevation_gain": 0.0,
+          "moving_time": 1369.0
+        },
+        "2025-12-29": {
+          "activity_ids": [
+            "21389213309"
+          ],
+          "count": 1,
+          "distance": 1717.52001953125,
+          "elevation_gain": 0.0,
+          "moving_time": 1393.0
+        }
+      },
+      "Walk": {
+        "2025-07-29": {
+          "activity_ids": [
+            "19891578990"
+          ],
+          "count": 1,
+          "distance": 4496.8798828125,
+          "elevation_gain": 13.0,
+          "moving_time": 3468.0
+        },
+        "2025-08-03": {
+          "activity_ids": [
+            "19942514666"
+          ],
+          "count": 1,
+          "distance": 5083.919921875,
+          "elevation_gain": 30.0,
+          "moving_time": 3299.0
+        },
+        "2025-08-04": {
+          "activity_ids": [
+            "19954040207"
+          ],
+          "count": 1,
+          "distance": 5013.35009765625,
+          "elevation_gain": 28.0,
+          "moving_time": 3592.5880126953125
+        },
+        "2025-08-05": {
+          "activity_ids": [
+            "19965613042"
+          ],
+          "count": 1,
+          "distance": 4212.490234375,
+          "elevation_gain": 8.0,
+          "moving_time": 3143.0
+        },
+        "2025-08-18": {
+          "activity_ids": [
+            "20104356153"
+          ],
+          "count": 1,
+          "distance": 3230.5400390625,
+          "elevation_gain": 8.0,
+          "moving_time": 2584.0
+        },
+        "2025-08-28": {
+          "activity_ids": [
+            "20211409298"
+          ],
+          "count": 1,
+          "distance": 2881.0400390625,
+          "elevation_gain": 4.0,
+          "moving_time": 2010.0
+        },
+        "2025-09-01": {
+          "activity_ids": [
+            "20251814769"
+          ],
+          "count": 1,
+          "distance": 494.1099853515625,
+          "elevation_gain": 1.0,
+          "moving_time": 366.0
+        },
+        "2025-09-03": {
+          "activity_ids": [
+            "20274532517"
+          ],
+          "count": 1,
+          "distance": 3537.169921875,
+          "elevation_gain": 9.0,
+          "moving_time": 2802.0
+        },
+        "2025-09-09": {
+          "activity_ids": [
+            "20337801822"
+          ],
+          "count": 1,
+          "distance": 4533.81982421875,
+          "elevation_gain": 9.0,
+          "moving_time": 3555.0579833984375
+        },
+        "2025-09-15": {
+          "activity_ids": [
+            "20399443512"
+          ],
+          "count": 1,
+          "distance": 1225.06005859375,
+          "elevation_gain": 4.0,
+          "moving_time": 950.0
+        },
+        "2025-09-17": {
+          "activity_ids": [
+            "20420823193"
+          ],
+          "count": 1,
+          "distance": 1229.4599609375,
+          "elevation_gain": 5.0,
+          "moving_time": 943.0
+        },
+        "2025-09-24": {
+          "activity_ids": [
+            "20492624498"
+          ],
+          "count": 1,
+          "distance": 5291.47021484375,
+          "elevation_gain": 12.0,
+          "moving_time": 5105.0
+        }
+      },
+      "WeightTraining": {
+        "2025-08-15": {
+          "activity_ids": [
+            "20072789202"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1762.906005859375
+        },
+        "2025-08-16": {
+          "activity_ids": [
+            "20083580417"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1375.1610107421875
+        },
+        "2025-08-18": {
+          "activity_ids": [
+            "20104723229"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1872.4339599609375
+        },
+        "2025-08-19": {
+          "activity_ids": [
+            "20117025677"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1456.5050048828125
+        },
+        "2025-08-20": {
+          "activity_ids": [
+            "20126766050"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2889.5791015625
+        },
+        "2025-08-25": {
+          "activity_ids": [
+            "20179042030"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2595.52099609375
+        },
+        "2025-08-27": {
+          "activity_ids": [
+            "20201473018"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2150.492919921875
+        },
+        "2025-08-28": {
+          "activity_ids": [
+            "20211573772"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1498.6009521484375
+        },
+        "2025-08-30": {
+          "activity_ids": [
+            "20228060987"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2739.339111328125
+        },
+        "2025-08-31": {
+          "activity_ids": [
+            "20240472060"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3206.409912109375
+        },
+        "2025-09-02": {
+          "activity_ids": [
+            "20263490443"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1920.698974609375
+        },
+        "2025-09-04": {
+          "activity_ids": [
+            "20285001753"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1660.18896484375
+        },
+        "2025-09-06": {
+          "activity_ids": [
+            "20304992832"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2747.2509765625
+        },
+        "2025-09-08": {
+          "activity_ids": [
+            "20326688155"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2683.14501953125
+        },
+        "2025-09-15": {
+          "activity_ids": [
+            "20399316011"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1521.43701171875
+        },
+        "2025-09-17": {
+          "activity_ids": [
+            "20420712784"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2299.302978515625
+        },
+        "2025-12-17": {
+          "activity_ids": [
+            "21287042467"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2130.908935546875
+        },
+        "2025-12-21": {
+          "activity_ids": [
+            "21320000815"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1956.76904296875
+        },
+        "2025-12-23": {
+          "activity_ids": [
+            "21336593048"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2643.194091796875
+        },
+        "2025-12-25": {
+          "activity_ids": [
+            "21351710564"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1390.427978515625
+        },
+        "2025-12-26": {
+          "activity_ids": [
+            "21360734745"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1918.81396484375
+        },
+        "2025-12-27": {
+          "activity_ids": [
+            "21369976118",
+            "21370108925"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2789.93603515625
+        },
+        "2025-12-29": {
+          "activity_ids": [
+            "21389309130"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1637.907958984375
+        },
+        "2025-12-30": {
+          "activity_ids": [
+            "21398986089"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1804.251953125
+        }
+      },
+      "stair_climbing": {
+        "2025-08-20": {
+          "activity_ids": [
+            "20126609611"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 484.9679870605469
+        },
+        "2025-08-25": {
+          "activity_ids": [
+            "20178894601"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 459.14898681640625
+        },
+        "2025-08-27": {
+          "activity_ids": [
+            "20201356028"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 684.5250244140625
+        },
+        "2025-08-31": {
+          "activity_ids": [
+            "20240214546"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 612.6500244140625
+        },
+        "2025-09-06": {
+          "activity_ids": [
+            "20304871815"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 674.6309814453125
+        },
+        "2025-09-17": {
+          "activity_ids": [
+            "20420600349"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 362.5050048828125
+        }
+      }
+    },
+    "2026": {
+      "Run": {
+        "2026-01-01": {
+          "activity_ids": [
+            "21413615867"
+          ],
+          "count": 1,
+          "distance": 1636.1400146484375,
+          "elevation_gain": 2.0,
+          "moving_time": 674.0
+        },
+        "2026-01-03": {
+          "activity_ids": [
+            "21432549572"
+          ],
+          "count": 1,
+          "distance": 2431.3798828125,
+          "elevation_gain": 11.0,
+          "moving_time": 978.7879943847656
+        },
+        "2026-01-05": {
+          "activity_ids": [
+            "21456829378"
+          ],
+          "count": 1,
+          "distance": 619.9600219726562,
+          "elevation_gain": 0.0,
+          "moving_time": 187.0
+        },
+        "2026-01-06": {
+          "activity_ids": [
+            "21467521509"
+          ],
+          "count": 1,
+          "distance": 1957.5,
+          "elevation_gain": 5.0,
+          "moving_time": 793.0
+        },
+        "2026-01-08": {
+          "activity_ids": [
+            "21488649327"
+          ],
+          "count": 1,
+          "distance": 1954.050048828125,
+          "elevation_gain": 3.0,
+          "moving_time": 799.7130126953125
+        },
+        "2026-01-10": {
+          "activity_ids": [
+            "21505083315"
+          ],
+          "count": 1,
+          "distance": 2913.8798828125,
+          "elevation_gain": 11.0,
+          "moving_time": 1164.5570068359375
+        },
+        "2026-01-13": {
+          "activity_ids": [
+            "21533909407"
+          ],
+          "count": 1,
+          "distance": 2122.780029296875,
+          "elevation_gain": 7.0,
+          "moving_time": 828.9960021972656
+        },
+        "2026-01-15": {
+          "activity_ids": [
+            "21562234130"
+          ],
+          "count": 1,
+          "distance": 2115.56005859375,
+          "elevation_gain": 4.0,
+          "moving_time": 805.0
+        },
+        "2026-01-17": {
+          "activity_ids": [
+            "21577979924"
+          ],
+          "count": 1,
+          "distance": 3245.89990234375,
+          "elevation_gain": 14.0,
+          "moving_time": 1250.0
+        },
+        "2026-01-20": {
+          "activity_ids": [
+            "21614518875"
+          ],
+          "count": 1,
+          "distance": 2438.429931640625,
+          "elevation_gain": 11.0,
+          "moving_time": 988.072998046875
+        },
+        "2026-01-22": {
+          "activity_ids": [
+            "21636164305"
+          ],
+          "count": 1,
+          "distance": 2539.7099609375,
+          "elevation_gain": 9.0,
+          "moving_time": 1009.6530151367188
+        },
+        "2026-01-26": {
+          "activity_ids": [
+            "21676389523"
+          ],
+          "count": 1,
+          "distance": 1788.3499755859375,
+          "elevation_gain": 5.0,
+          "moving_time": 700.0
+        },
+        "2026-01-27": {
+          "activity_ids": [
+            "21686663927"
+          ],
+          "count": 1,
+          "distance": 2432.739990234375,
+          "elevation_gain": 10.0,
+          "moving_time": 983.7200012207031
+        },
+        "2026-01-29": {
+          "activity_ids": [
+            "21707160156"
+          ],
+          "count": 1,
+          "distance": 2438.75,
+          "elevation_gain": 8.0,
+          "moving_time": 958.0
+        },
+        "2026-01-31": {
+          "activity_ids": [
+            "21722445322"
+          ],
+          "count": 1,
+          "distance": 4048.27001953125,
+          "elevation_gain": 21.0,
+          "moving_time": 1669.291000366211
+        },
+        "2026-02-03": {
+          "activity_ids": [
+            "21758096744"
+          ],
+          "count": 1,
+          "distance": 2433.840087890625,
+          "elevation_gain": 9.0,
+          "moving_time": 941.0
+        },
+        "2026-02-05": {
+          "activity_ids": [
+            "21778769878"
+          ],
+          "count": 1,
+          "distance": 2442.199951171875,
+          "elevation_gain": 7.0,
+          "moving_time": 929.9519958496094
+        },
+        "2026-02-07": {
+          "activity_ids": [
+            "21795269662"
+          ],
+          "count": 1,
+          "distance": 5178.4599609375,
+          "elevation_gain": 23.0,
+          "moving_time": 2035.5440063476562
+        },
+        "2026-02-10": {
+          "activity_ids": [
+            "21831522602"
+          ],
+          "count": 1,
+          "distance": 2587.25,
+          "elevation_gain": 9.0,
+          "moving_time": 995.0
+        },
+        "2026-02-13": {
+          "activity_ids": [
+            "21861540040"
+          ],
+          "count": 1,
+          "distance": 1629.8699951171875,
+          "elevation_gain": 4.0,
+          "moving_time": 708.881
+        },
+        "2026-02-14": {
+          "activity_ids": [
+            "21867429710"
+          ],
+          "count": 1,
+          "distance": 5645.5400390625,
+          "elevation_gain": 30.0,
+          "moving_time": 2272.1430053710938
+        },
+        "2026-02-17": {
+          "activity_ids": [
+            "21903084277"
+          ],
+          "count": 1,
+          "distance": 2917.340087890625,
+          "elevation_gain": 13.0,
+          "moving_time": 1096.426025390625
+        },
+        "2026-02-19": {
+          "activity_ids": [
+            "21924281566"
+          ],
+          "count": 1,
+          "distance": 2904.3798828125,
+          "elevation_gain": 13.0,
+          "moving_time": 1300.8179931640625
+        },
+        "2026-02-21": {
+          "activity_ids": [
+            "21940442254"
+          ],
+          "count": 1,
+          "distance": 6781.22998046875,
+          "elevation_gain": 33.0,
+          "moving_time": 2804.244
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "21976836382"
+          ],
+          "count": 1,
+          "distance": 3230.989990234375,
+          "elevation_gain": 15.0,
+          "moving_time": 1314.0
+        },
+        "2026-02-26": {
+          "activity_ids": [
+            "21999316064"
+          ],
+          "count": 1,
+          "distance": 3240.719970703125,
+          "elevation_gain": 12.0,
+          "moving_time": 1320.864990234375
+        },
+        "2026-02-28": {
+          "activity_ids": [
+            "22016672065"
+          ],
+          "count": 1,
+          "distance": 8055.10986328125,
+          "elevation_gain": 39.0,
+          "moving_time": 3512.494
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "22054232185"
+          ],
+          "count": 1,
+          "distance": 4033.840087890625,
+          "elevation_gain": 11.0,
+          "moving_time": 1506.481
+        },
+        "2026-03-04": {
+          "activity_ids": [
+            "22066316178"
+          ],
+          "count": 1,
+          "distance": 3316.300048828125,
+          "elevation_gain": 12.0,
+          "moving_time": 1530.8280029296875
+        },
+        "2026-03-07": {
+          "activity_ids": [
+            "22094089208"
+          ],
+          "count": 1,
+          "distance": 10069.0703125,
+          "elevation_gain": 84.0,
+          "moving_time": 4148.145
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "22121839324"
+          ],
+          "count": 1,
+          "distance": 5419.5400390625,
+          "elevation_gain": 19.0,
+          "moving_time": 2220.0
+        },
+        "2026-03-11": {
+          "activity_ids": [
+            "22144830282"
+          ],
+          "count": 1,
+          "distance": 2716.739990234375,
+          "elevation_gain": 10.0,
+          "moving_time": 997.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "22155865449"
+          ],
+          "count": 1,
+          "distance": 5436.7099609375,
+          "elevation_gain": 20.0,
+          "moving_time": 1994.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "22176961913"
+          ],
+          "count": 1,
+          "distance": 13169.2900390625,
+          "elevation_gain": 48.0,
+          "moving_time": 5603.514
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "22198663714"
+          ],
+          "count": 1,
+          "distance": 4040.3798828125,
+          "elevation_gain": 19.0,
+          "moving_time": 1752.5740051269531
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "22223154706",
+            "22233418017"
+          ],
+          "count": 2,
+          "distance": 7299.6201171875,
+          "elevation_gain": 22.0,
+          "moving_time": 2940.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "22251519758"
+          ],
+          "count": 1,
+          "distance": 10084.7998046875,
+          "elevation_gain": 33.0,
+          "moving_time": 4239.548034667969
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "22278885314"
+          ],
+          "count": 1,
+          "distance": 5575.81982421875,
+          "elevation_gain": 18.0,
+          "moving_time": 2272.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "22301501783"
+          ],
+          "count": 1,
+          "distance": 4189.85009765625,
+          "elevation_gain": 9.0,
+          "moving_time": 1647.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "22312267909"
+          ],
+          "count": 1,
+          "distance": 5646.240234375,
+          "elevation_gain": 17.0,
+          "moving_time": 2396.9730224609375
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "22321686462"
+          ],
+          "count": 1,
+          "distance": 2307.919921875,
+          "elevation_gain": 3.0,
+          "moving_time": 873.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "22329154642"
+          ],
+          "count": 1,
+          "distance": 13773.75,
+          "elevation_gain": 40.0,
+          "moving_time": 5881.2330322265625
+        }
+      },
+      "VirtualRide": {
+        "2026-02-19": {
+          "activity_ids": [
+            "21924421480"
+          ],
+          "count": 1,
+          "distance": 5632.704000000001,
+          "elevation_gain": 0.0,
+          "moving_time": 758.5659790039062
+        }
+      },
+      "VirtualRun": {
+        "2026-01-05": {
+          "activity_ids": [
+            "21456869649"
+          ],
+          "count": 1,
+          "distance": 1085.260009765625,
+          "elevation_gain": 0.0,
+          "moving_time": 604.7579956054688
+        },
+        "2026-01-14": {
+          "activity_ids": [
+            "21551771586"
+          ],
+          "count": 1,
+          "distance": 371.2300109863281,
+          "elevation_gain": 0.0,
+          "moving_time": 209.51199340820312
+        },
+        "2026-02-09": {
+          "activity_ids": [
+            "21820234775"
+          ],
+          "count": 1,
+          "distance": 1641.5308800000003,
+          "elevation_gain": 0.0,
+          "moving_time": 643.0
+        },
+        "2026-02-11": {
+          "activity_ids": [
+            "21842023059"
+          ],
+          "count": 1,
+          "distance": 2591.0438400000003,
+          "elevation_gain": 0.0,
+          "moving_time": 998.185
+        },
+        "2026-02-15": {
+          "activity_ids": [
+            "21882421752"
+          ],
+          "count": 1,
+          "distance": 2878.610107421875,
+          "elevation_gain": 0.0,
+          "moving_time": 1117.8200073242188
+        },
+        "2026-02-18": {
+          "activity_ids": [
+            "21914159335"
+          ],
+          "count": 1,
+          "distance": 2414.0160000000005,
+          "elevation_gain": 0.0,
+          "moving_time": 1083.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "21965645273"
+          ],
+          "count": 1,
+          "distance": 1625.43994140625,
+          "elevation_gain": 0.0,
+          "moving_time": 541.0979919433594
+        },
+        "2026-02-25": {
+          "activity_ids": [
+            "21988358970"
+          ],
+          "count": 1,
+          "distance": 1609.3440000000003,
+          "elevation_gain": 0.0,
+          "moving_time": 636.0
+        },
+        "2026-03-05": {
+          "activity_ids": [
+            "22077164544"
+          ],
+          "count": 1,
+          "distance": 4023.3600000000006,
+          "elevation_gain": 0.0,
+          "moving_time": 1785.077
+        }
+      },
+      "WeightTraining": {
+        "2026-01-01": {
+          "activity_ids": [
+            "21416653994"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2838.93994140625
+        },
+        "2026-01-03": {
+          "activity_ids": [
+            "21436411712"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2308.593994140625
+        },
+        "2026-01-05": {
+          "activity_ids": [
+            "21456963147"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1843.0810546875
+        },
+        "2026-01-07": {
+          "activity_ids": [
+            "21478477319"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2919.194091796875
+        },
+        "2026-01-10": {
+          "activity_ids": [
+            "21508233408"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2357.906982421875
+        },
+        "2026-01-12": {
+          "activity_ids": [
+            "21529676781"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2561.071044921875
+        },
+        "2026-01-13": {
+          "activity_ids": [
+            "21541123568"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2507.509033203125
+        },
+        "2026-01-14": {
+          "activity_ids": [
+            "21551989628"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2369.965087890625
+        },
+        "2026-01-17": {
+          "activity_ids": [
+            "21582638052"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3255.196044921875
+        },
+        "2026-01-19": {
+          "activity_ids": [
+            "21604141152"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2736.218017578125
+        },
+        "2026-01-21": {
+          "activity_ids": [
+            "21625796976"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4232.18505859375
+        },
+        "2026-01-22": {
+          "activity_ids": [
+            "21636312778"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1929.9520263671875
+        },
+        "2026-01-27": {
+          "activity_ids": [
+            "21686907857"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2622.462890625
+        },
+        "2026-01-30": {
+          "activity_ids": [
+            "21716375455"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2330.535888671875
+        },
+        "2026-01-31": {
+          "activity_ids": [
+            "21726617031"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3269.951904296875
+        },
+        "2026-02-02": {
+          "activity_ids": [
+            "21747922356"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2680.58203125
+        },
+        "2026-02-04": {
+          "activity_ids": [
+            "21769979314"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2938.01806640625
+        },
+        "2026-02-05": {
+          "activity_ids": [
+            "21779448303"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1594.0560302734375
+        },
+        "2026-02-07": {
+          "activity_ids": [
+            "21799075701"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2448.85791015625
+        },
+        "2026-02-09": {
+          "activity_ids": [
+            "21820397646"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1971.989990234375
+        },
+        "2026-02-14": {
+          "activity_ids": [
+            "21871624665"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2539.217041015625
+        },
+        "2026-02-16": {
+          "activity_ids": [
+            "21892457545"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2006.43701171875
+        },
+        "2026-02-17": {
+          "activity_ids": [
+            "21903309279"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2382.9150390625
+        },
+        "2026-02-18": {
+          "activity_ids": [
+            "21914369641"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2236.805908203125
+        },
+        "2026-02-21": {
+          "activity_ids": [
+            "21944208340"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2401.35009765625
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "21965804433"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1473.406982421875
+        },
+        "2026-02-25": {
+          "activity_ids": [
+            "21988459926"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1808.383056640625
+        },
+        "2026-03-05": {
+          "activity_ids": [
+            "22077242330"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1546.2159423828125
+        },
+        "2026-03-06": {
+          "activity_ids": [
+            "22087229186"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2728.65087890625
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "22111228645"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2040.4339599609375
+        },
+        "2026-03-10": {
+          "activity_ids": [
+            "22133935706"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3347.381103515625
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "22186330902"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3087.115966796875
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "22210528594"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3302.85205078125
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "22267439579"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2032.303955078125
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "22290814296"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3550.091064453125
+        }
+      }
+    }
+  },
+  "garmin_profile_url": "https://connect.garmin.com/modern/profile/de253810-4ae6-451c-933b-9cf1b7183543",
+  "generated_at": "2026-03-30T19:44:59.664420+00:00",
+  "other_bucket": "OtherSports",
+  "profile_url": "https://connect.garmin.com/modern/profile/de253810-4ae6-451c-933b-9cf1b7183543",
+  "repo": "void-mckenzie/git-sweaty",
+  "source": "garmin",
+  "type_meta": {
+    "Elliptical": {
+      "accent": "#fb5607",
+      "label": "Elliptical"
+    },
+    "Hike": {
+      "accent": "#d6ff6b",
+      "label": "Hike"
+    },
+    "Ride": {
+      "accent": "#05ffa1",
+      "label": "Ride"
+    },
+    "Run": {
+      "accent": "#01cdfe",
+      "label": "Run"
+    },
+    "VirtualRide": {
+      "accent": "#fee440",
+      "label": "Virtual Ride"
+    },
+    "VirtualRun": {
+      "accent": "#00bbf9",
+      "label": "Virtual Run"
+    },
+    "Walk": {
+      "accent": "#d6ff6b",
+      "label": "Walk"
+    },
+    "WeightTraining": {
+      "accent": "#ff71ce",
+      "label": "Weight Training"
+    },
+    "stair_climbing": {
+      "accent": "#f15bb5",
+      "label": "Stair climbing"
+    }
+  },
+  "types": [
+    "Elliptical",
+    "Hike",
+    "Ride",
+    "Run",
+    "VirtualRide",
+    "VirtualRun",
+    "Walk",
+    "WeightTraining",
+    "stair_climbing"
+  ],
+  "units": {
+    "distance": "mi",
+    "elevation": "ft"
+  },
+  "week_start": "sunday",
+  "years": [
+    2024,
+    2025,
+    2026
+  ]
+}
