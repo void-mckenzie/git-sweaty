@@ -3144,5 +3144,18 @@
     "start_date_local": "2026-04-01T19:32:46",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 7330.93994140625,
+    "elevation_gain": 21.0,
+    "id": "22389102780",
+    "moving_time": 2937.0,
+    "name": "Irvine - 4.5 Miles No Target",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-02T19:09:01",
+    "type": "Run",
+    "year": 2026
   }
 ]
