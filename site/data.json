@@ -2186,6 +2186,78 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22389102780",
       "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 11,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22419715161",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 20,
+      "name": "Irvine - 5 Miles - No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22434773481",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22447734345",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 9,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22455760989",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 16,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22460032531",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 20,
+      "name": "Irvine - 5 Miles - No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22461106524",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 20,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22472928715",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22483428197",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3390,6 +3462,27 @@
       }
     },
     "2026": {
+      "Ride": {
+        "2026-04-05": {
+          "activity_ids": [
+            "22419715161"
+          ],
+          "count": 1,
+          "distance": 3445.989990234375,
+          "elevation_gain": 23.0,
+          "moving_time": 1011.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "22455760989",
+            "22460032531"
+          ],
+          "count": 2,
+          "distance": 6794.239990234375,
+          "elevation_gain": 47.0,
+          "moving_time": 1933.0
+        }
+      },
       "Run": {
         "2026-01-01": {
           "activity_ids": [
@@ -3796,6 +3889,33 @@
           "distance": 7330.93994140625,
           "elevation_gain": 21.0,
           "moving_time": 2937.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "22434773481"
+          ],
+          "count": 1,
+          "distance": 8124.02001953125,
+          "elevation_gain": 27.0,
+          "moving_time": 3453.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "22461106524"
+          ],
+          "count": 1,
+          "distance": 8124.02978515625,
+          "elevation_gain": 28.0,
+          "moving_time": 3380.6810302734375
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "22472928715"
+          ],
+          "count": 1,
+          "distance": 8121.25,
+          "elevation_gain": 27.0,
+          "moving_time": 3412.364013671875
         }
       },
       "VirtualRide": {
@@ -4207,12 +4327,30 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3550.091064453125
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "22447734345"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2403.10400390625
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "22483428197"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2714.177001953125
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/de253810-4ae6-451c-933b-9cf1b7183543",
-  "generated_at": "2026-04-03T15:22:11.928414+00:00",
+  "generated_at": "2026-04-11T15:16:28.320989+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/de253810-4ae6-451c-933b-9cf1b7183543",
   "repo": "void-mckenzie/git-sweaty",
