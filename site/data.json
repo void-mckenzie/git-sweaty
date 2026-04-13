@@ -2267,6 +2267,42 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22491696137",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 12,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22504484318",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 14,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22505149946",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 16,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22505652451",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 18,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22506285287",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3490,6 +3526,18 @@
           "distance": 6794.239990234375,
           "elevation_gain": 47.0,
           "moving_time": 1933.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "22504484318",
+            "22505149946",
+            "22505652451",
+            "22506285287"
+          ],
+          "count": 4,
+          "distance": 6755.1298828125,
+          "elevation_gain": 40.0,
+          "moving_time": 1939.0
         }
       },
       "Run": {
@@ -4368,7 +4416,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/de253810-4ae6-451c-933b-9cf1b7183543",
-  "generated_at": "2026-04-12T15:19:26.343647+00:00",
+  "generated_at": "2026-04-13T15:38:15.692997+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/de253810-4ae6-451c-933b-9cf1b7183543",
   "repo": "void-mckenzie/git-sweaty",
