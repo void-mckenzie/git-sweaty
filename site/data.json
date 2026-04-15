@@ -2312,6 +2312,33 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22518093091",
       "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 15,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22528733192",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 16,
+      "name": "Irvine Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22529098436",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 19,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22530313429",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3547,6 +3574,16 @@
           "distance": 6755.1298828125,
           "elevation_gain": 40.0,
           "moving_time": 1939.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "22528733192",
+            "22529098436"
+          ],
+          "count": 2,
+          "distance": 9420.1396484375,
+          "elevation_gain": 48.0,
+          "moving_time": 2344.0
         }
       },
       "Run": {
@@ -4429,12 +4466,21 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2714.177001953125
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "22530313429"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2758.4169921875
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/de253810-4ae6-451c-933b-9cf1b7183543",
-  "generated_at": "2026-04-14T15:34:13.644238+00:00",
+  "generated_at": "2026-04-15T15:35:30.779240+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/de253810-4ae6-451c-933b-9cf1b7183543",
   "repo": "void-mckenzie/git-sweaty",

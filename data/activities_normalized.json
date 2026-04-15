@@ -3339,5 +3339,44 @@
     "start_date_local": "2026-04-13T20:28:45",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 4563.759765625,
+    "elevation_gain": 15.0,
+    "id": "22528733192",
+    "moving_time": 1155.0,
+    "name": "Irvine Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-14T15:15:05",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 4856.3798828125,
+    "elevation_gain": 33.0,
+    "id": "22529098436",
+    "moving_time": 1189.0,
+    "name": "Irvine Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-14T16:05:32",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22530313429",
+    "moving_time": 2758.4169921875,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-04-14T19:45:31",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
