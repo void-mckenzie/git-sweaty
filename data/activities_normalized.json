@@ -3378,5 +3378,18 @@
     "start_date_local": "2026-04-14T19:45:31",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 10083.509765625,
+    "elevation_gain": 33.0,
+    "id": "22543013735",
+    "moving_time": 3841.6890258789062,
+    "name": "Irvine - 6 Miles - No Target",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-15T21:39:07",
+    "type": "Run",
+    "year": 2026
   }
 ]
