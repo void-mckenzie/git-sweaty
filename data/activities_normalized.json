@@ -3521,5 +3521,18 @@
     "start_date_local": "2026-04-28T19:36:23",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 3308.070068359375,
+    "elevation_gain": 18.0,
+    "id": "22708574278",
+    "moving_time": 1205.0,
+    "name": "Irvine - 2 Miles - No Target - No Laps",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-29T17:28:31",
+    "type": "Run",
+    "year": 2026
   }
 ]
