@@ -2447,6 +2447,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22708574278",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 17,
+      "name": "Irvine Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22732077627",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4244,6 +4253,15 @@
           "distance": 3308.070068359375,
           "elevation_gain": 18.0,
           "moving_time": 1205.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "22732077627"
+          ],
+          "count": 1,
+          "distance": 2708.530029296875,
+          "elevation_gain": 10.0,
+          "moving_time": 1273.0
         }
       },
       "VirtualRide": {
@@ -4695,7 +4713,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:27:15.291603+00:00",
+  "generated_at": "2026-05-02T15:21:45.895514+00:00",
   "other_bucket": "OtherSports",
   "repo": "void-mckenzie/git-sweaty",
   "source": "garmin",
