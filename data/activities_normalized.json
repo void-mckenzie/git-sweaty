@@ -3638,5 +3638,18 @@
     "start_date_local": "2026-05-21T22:22:49",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 3246.77001953125,
+    "elevation_gain": 10.0,
+    "id": "22978116050",
+    "moving_time": 1253.0,
+    "name": "Irvine - Norwegian 2x4 - Test run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-22T20:49:07",
+    "type": "Run",
+    "year": 2026
   }
 ]
