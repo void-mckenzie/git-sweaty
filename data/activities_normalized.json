@@ -3651,5 +3651,18 @@
     "start_date_local": "2026-05-22T20:49:07",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 6577.27978515625,
+    "elevation_gain": 5.0,
+    "id": "22997018618",
+    "moving_time": 2690.5239868164062,
+    "name": "Milpitas Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-24T07:30:42",
+    "type": "Run",
+    "year": 2026
   }
 ]
