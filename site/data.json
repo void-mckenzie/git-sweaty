@@ -2573,6 +2573,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23099596014",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 21,
+      "name": "Irvine - 4.5 Miles No Target",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23123640244",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4496,6 +4505,15 @@
           "distance": 8127.41015625,
           "elevation_gain": 28.0,
           "moving_time": 3065.487060546875
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "23123640244"
+          ],
+          "count": 1,
+          "distance": 8129.60009765625,
+          "elevation_gain": 29.0,
+          "moving_time": 3497.1589965820312
         }
       },
       "VirtualRide": {
@@ -4947,7 +4965,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T16:38:21.862918+00:00",
+  "generated_at": "2026-06-04T16:11:46.310882+00:00",
   "other_bucket": "OtherSports",
   "repo": "void-mckenzie/git-sweaty",
   "source": "garmin",
