@@ -3755,5 +3755,31 @@
     "start_date_local": "2026-06-06T21:49:53",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 2710.639892578125,
+    "elevation_gain": 10.0,
+    "id": "23182224732",
+    "moving_time": 1145.0,
+    "name": "Irvine - Norwegian 4x4 - Warmup fail",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-08T18:59:22",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 5741.22998046875,
+    "elevation_gain": 24.0,
+    "id": "23182446276",
+    "moving_time": 2260.6109924316406,
+    "name": "Irvine - Norwegian 4x4",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-08T19:48:36",
+    "type": "Run",
+    "year": 2026
   }
 ]

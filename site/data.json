@@ -2600,6 +2600,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23158860352",
       "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 18,
+      "name": "Irvine - Norwegian 4x4 - Warmup fail",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23182224732",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 19,
+      "name": "Irvine - Norwegian 4x4",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23182446276",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4550,6 +4568,16 @@
           "distance": 15698.0498046875,
           "elevation_gain": 49.0,
           "moving_time": 6659.961975097656
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "23182224732",
+            "23182446276"
+          ],
+          "count": 2,
+          "distance": 8451.869873046875,
+          "elevation_gain": 34.0,
+          "moving_time": 3405.6109924316406
         }
       },
       "VirtualRide": {
@@ -5001,7 +5029,7 @@
       }
     }
   },
-  "generated_at": "2026-06-08T16:27:19.823563+00:00",
+  "generated_at": "2026-06-09T16:04:35.500674+00:00",
   "other_bucket": "OtherSports",
   "repo": "void-mckenzie/git-sweaty",
   "source": "garmin",
