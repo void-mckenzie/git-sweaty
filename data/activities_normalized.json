@@ -4028,5 +4028,18 @@
     "start_date_local": "2026-07-19T01:41:36",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 5430.7998046875,
+    "elevation_gain": 14.0,
+    "id": "23710773725",
+    "moving_time": 2219.0,
+    "name": "Irvine Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-23T21:33:06",
+    "type": "Run",
+    "year": 2026
   }
 ]
